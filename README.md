@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/137421927?v=4" alt="Mi foto de perfil" width="240" style="border-radius: 50%;">
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=500&color=F7E5DC&center=true&vCenter=true&width=435&lines=%C2%A1Hola+%F0%9F%91%8B!;Soy+Fernando+Flores+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Soy+Full+Stack+Developer+%F0%9F%92%BB)
 

@@ -161,5 +161,6 @@ Actualmente estoy profundizando mis conocimientos en **Kubernetes** y **AWS** pa
 <h3> 📫 Conéctate conmigo: </h3>
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:emilianoflores07081@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-flores-b6ba18288/)
 
 </div>

@@ -1,9 +1,11 @@
 <div align="center">
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=500&color=F7E5DC&center=true&vCenter=true&width=435&lines=%C2%A1Hola+%F0%9F%91%8B!;Soy+Fernando+Flores+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Soy+Full+Stack+Developer+%F0%9F%92%BB)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=500&color=F7E5DC&center=true&vCenter=true&width=435&lines=%C2%A1Hi+%F0%9F%91%8B!;I+am+Fernando+Flores+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+Full+Stack+Developer+%F0%9F%92%BB)
 
-<h3> 💫 Sobre mi: </h3>
-Soy un Full Stack Developer apasionado por la tecnología, siempre <br>en busca de nuevas oportunidades para aprender y crecer. <br>Tengo experiencia en el desarrollo de aplicaciones escalables y <br>en la gestión de proyectos, con un enfoque en la calidad del <br>software y la satisfacción del cliente.
+<h3> 💫 About me: </h3>
+I am a Full Stack Developer passionate about technology, always looking for new opportunities to <br>
+learn and grow. I have experience in scalable application development and project <br>
+management, with a focus on software quality and customer satisfaction.
 
 ---
 
@@ -52,7 +54,7 @@ Soy un Full Stack Developer apasionado por la tecnología, siempre <br>en busca 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 </div>
 
-<h4> 🛢️ Bases de datos </h4>
+<h4> 🛢️ Databases </h4>
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -96,7 +98,7 @@ Soy un Full Stack Developer apasionado por la tecnología, siempre <br>en busca 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
 </div>
 
-<h4> 📐 Arquitectura y Metodologías </h4>
+<h4> 📐 Architecture and methodologies </h4>
 <div align="center">
 
 ![DDD](https://img.shields.io/badge/DDD-%230074E8.svg?style=flat&logo=DDD&logoColor=white)
@@ -114,14 +116,14 @@ Soy un Full Stack Developer apasionado por la tecnología, siempre <br>en busca 
 
 </div>
 
-<h4> 🧩 Mensajería y Comunicación </h4>
+<h4> 🧩 Messaging and communication </h4>
 <div align="center">
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-%2300C7B7.svg?style=flat&logo=NATS&logoColor=white)
 </div>
 
-<h4> Otras tecnologías </h4>
+<h4> Other technologies </h4>
 <div align="center">
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
@@ -142,23 +144,33 @@ Soy un Full Stack Developer apasionado por la tecnología, siempre <br>en busca 
 
 ---
 
-<h3> 🎓 Certificaciones: </h3>
+<h3> 🎓 Certifications: </h3>
 
-**NestJS + Microservicios: Aplicaciones escalables y modulares** - Udemy (Marzo 2024)
-**AWS Academy Graduate - Cloud Architecting** - Amazon Web Services (Abril 2024)
+[AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://www.credly.com/badges/a7317e88-ca02-416a-90d4-ecb8effef29a/linked_in_profile)  
+[Operating Systems Basics](https://www.credly.com/badges/c1e0be31-485a-487f-bb39-eede48cb9a77/linked_in_profile)  
+[Network Support and Security](https://www.credly.com/badges/70d9360d-caf4-4549-9ef7-ddf7e768afde/linked_in_profile)  
+[AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/f71233db-299d-49f6-956c-935b102cbf1e/linked_in_profile)  
+[NestJS + Microservicios: Aplicaciones escalables y modulares](https://www.udemy.com/certificate/UC-8006c632-e962-41b8-b980-797d316d2314/)  
+[Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/f0a8eb1d-4c76-47e4-b81d-c1229b3f00fb/linked_in_profile)  
+[Networking Basics](https://www.credly.com/badges/5ba0a7c9-5048-43b7-aa37-fad978a9e719/linked_in_profile)  
+[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/f934dbbe-fb8d-43e4-bdfd-6fe24e8a3ecb/linked_in_profile)  
+[Diseño de experiencia del usuario (UX) de Google](https://coursera.org/share/20c52122bc3e6c2320d08f0e22e222a4)  
 
 ---
 
-<h3> 🌱 Aprendiendo: </h3>
+<h3> 🌱 Learning: </h3>
 <p> 
 
-Actualmente estoy profundizando mis conocimientos en **Kubernetes** y **AWS** para mejorar en la gestión de infraestructuras en la nube. Además, estoy fortaleciendo mis habilidades en **Flutter** para el desarrollo de aplicaciones móviles multiplataforma.
+Currently, I am deepening my skills in **Ionic** to expand my skills in hybrid mobile application development. 
+
+In parallel, I am interested in improving my knowledge in **design patterns** <br>
+and advanced methodologies to ensure scalability and maintainability of large-scale projects.
 
 </p>
 
 ---
 
-<h3> 📫 Conéctate conmigo: </h3>
+<h3> 📫 Connect with me: </h3>
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:emilianoflores07081@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-flores-b6ba18288/)
